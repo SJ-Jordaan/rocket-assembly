@@ -14,7 +14,7 @@ Welcome to Rocket Assembly, the most interstellar assembly project in the galaxy
    
    On macOS:
    ```
-   brew install nasm
+   brew install yasm
    ```
 
 2. **Clone This Repository**: Grab a local copy of the mission control center (aka this repository) to your computer using git:
