@@ -19,7 +19,7 @@ Welcome to Rocket Assembly, the most interstellar assembly project in the galaxy
 
 2. **Clone This Repository**: Grab a local copy of the mission control center (aka this repository) to your computer using git:
    ```
-   git clone https://example.com/rocket-assembly.git
+   git clone https://github.com/SJ-Jordaan/rocket-assembly.git
    cd rocket-assembly
    ```
 
